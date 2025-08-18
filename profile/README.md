@@ -1,4 +1,4 @@
-# WebnexaLabs 🚀
+# WebnexaLabs 
 
 > **Transforming Ideas into Digital Excellence**
 
