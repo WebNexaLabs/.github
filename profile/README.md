@@ -165,10 +165,6 @@ WebnexaLabs/
 
 Ready to transform your ideas into digital reality? Let's discuss your project!
 
-### 📧 **Contact Information**
-- **Email**: [contact@webnexalabs.dev](mailto:contact@webnexalabs.dev)
-- **Website**: [www.webnexalabs.dev](https://www.webnexalabs.dev)
-- **LinkedIn**: [WebnexaLabs](https://linkedin.com/company/webnexalabs)
 
 ### 🗓️ **Free Consultation**
 Book a free 30-minute consultation to discuss your project requirements and get a detailed proposal.
@@ -187,6 +183,6 @@ All code, designs, and assets are the intellectual property of **WebnexaLabs** a
 
 *Building Tomorrow's Digital Solutions Today*
 
-**Website**: www.webnexalabs.dev | **Email**: contact@webnexalabs.dev | **LinkedIn**: WebnexaLabs
+**Website**: www.webnexalabs.dev | **Email**: info@webnexalabs.dev | **LinkedIn**: WebnexaLabs
 
 </div>
