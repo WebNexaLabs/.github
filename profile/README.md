@@ -183,6 +183,6 @@ All code, designs, and assets are the intellectual property of **WebnexaLabs** a
 
 *Building Tomorrow's Digital Solutions Today*
 
-**Website**: www.webnexalabs.dev | **Email**: info@webnexalabs.dev | **LinkedIn**: WebnexaLabs
+**Website**: www.webnexalabs.in | **Email**: support@webnexalabs.in | **LinkedIn**: WebnexaLabs
 
 </div>
